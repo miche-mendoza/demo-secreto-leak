@@ -1,2 +1,2 @@
-const githubToken = "ghp_1234567890abcdefghijklmnopqrstuvwxyz12";
+const githubToken = "ghp_abcdefghijklmnopqrstuvwxyz0123456789ABCD";
 console.log("App iniciada");
